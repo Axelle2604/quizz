@@ -1,0 +1,19 @@
+button {
+  background-color: #e74c3c;
+  border-style: none;
+  padding: 10px;
+  color: white;
+  font-size: 16px;
+  margin-bottom: 10px;
+  width: 50%;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #e66152;
+}
+
+button:active {
+  cursor: pointer;
+  background-color: rgb(226, 70, 52);
+}
